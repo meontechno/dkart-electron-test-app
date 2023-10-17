@@ -1,0 +1,3 @@
+#Unnecessary dirs
+node_modules/
+electron-builder.yml
